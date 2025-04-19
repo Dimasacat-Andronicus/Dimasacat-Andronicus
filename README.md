@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="175" src="./dainsleiif.png" />
+<img align="right" height="175" src="./ayaka.gif" />
 
 ###
 
@@ -62,7 +62,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dimasacat-Andronicus/Dimasacat-Andronicus/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dimasacat-Andronicus/Dimasacat-Andronicus/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Dimasacat-Andronicus/Dimasacat-Andronicus/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Dimasacat-Andronicus/Dimasacat-Andronicus/output/github-snake.svg" alt="Snake animation" />
 </picture>
 
 ###
