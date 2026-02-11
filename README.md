@@ -43,7 +43,7 @@
   <a href="https://discordapp.com/users/750302925431242802" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
-  <a href="https://andronicus-portfolio.netlify.app" target="_blank">
+  <a href="https://andronicus-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
   </a>
 </div>
